@@ -5,7 +5,7 @@ var data = [
 		'list'	:	[
 			{
 				'title'	:	'前端工程师',
-				'company'	:	'北京xxxx有限公司',
+				'company'	:	'北京小米通讯有限公司',
 				'position'	:	'前端页面',
 				'recruitingNumbers'	:	'2人',
 				'workingLocation'	:	'北京',
@@ -16,7 +16,7 @@ var data = [
 			},
 			{
 				'title'	:	'网站前端页面设计',
-				'company'	:	'上海xxxx有限公司 ',
+				'company'	:	'上海米哈游科技有限公司 ',
 				'position'	:	'前端页面',
 				'recruitingNumbers'	:	'5人',
 				'workingLocation'	:	'上海',
@@ -27,7 +27,7 @@ var data = [
 			},
 			{
 				'title'	:	'高级web前端工程师',
-				'company'	:	'广州xxxx公司 ',
+				'company'	:	'广州优视网络技术有限公司 ',
 				'position'	:	'前端页面',
 				'recruitingNumbers'	:	'12人',
 				'workingLocation'	:	'广州',
@@ -38,7 +38,7 @@ var data = [
 			},
 			{
 				'title'	:	'HTML5前端工程师',
-				'company'	:	'杭州xxxx有限公司 ',
+				'company'	:	'杭州菜鸟供应链管理有限公司 ',
 				'position'	:	'前端页面',
 				'recruitingNumbers'	:	'2人',
 				'workingLocation'	:	'朝阳',
@@ -49,7 +49,7 @@ var data = [
 			},
 			{
 				'title'	:	'前端工程师',
-				'company'	:	'北京xxxx科技有限公司 ',
+				'company'	:	'北京金山软件有限公司 ',
 				'position'	:	'前端页面',
 				'recruitingNumbers'	:	'2人',
 				'workingLocation'	:	'北京',
